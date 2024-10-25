@@ -1,11 +1,10 @@
 # STEGBRUTEX
+![hacker-goes-after-github-repositories-1558690327](https://github.com/user-attachments/assets/b551a69f-fe11-4ff8-95f7-cc775cb424bf)
 
 
 A simple tool based on python and shell. This tool allows you to bruteforce any password protected stegnography files with the help of wordlists that you have.
 
 # TOOL INTERFACE
-
-
 
 # INSTALLATION
 
