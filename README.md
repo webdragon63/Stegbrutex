@@ -10,7 +10,7 @@ A simple tool based on python and shell. This tool allows you to bruteforce any 
 # INSTALLATION
 
 ```shell 
-sudo git clone https://github.com/webdragon63/Stegbrutex.git
+git clone https://github.com/webdragon63/Stegbrutex.git
 cd Stegbrutex
 sudo bash install.sh
 ```
