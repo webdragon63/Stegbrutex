@@ -6,7 +6,14 @@ A simple tool based on python and shell. This tool allows you to bruteforce any 
 
 # TOOL INTERFACE
 ![Screenshot at 2024-10-25 17-45-16](https://github.com/user-attachments/assets/65b77387-d639-43de-b745-800784bf2aae)
-# Tested on Parrot OS
+# Dependencies
+Python3, Python3-pip, Steghide
+### Install all with these commands
+```shell
+sudo apt install python3
+sudo apt install python3-pip
+sudo apt instal1 steghide
+```
 # INSTALLATION
 
 ```shell 
