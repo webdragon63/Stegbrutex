@@ -9,5 +9,5 @@ ln -sf /usr/local/bin/stegbrutex.sh /usr/local/bin/stegbrutex
 chmod +x /usr/local/bin/stegbrutex.sh
 chmod +x /usr/local/bin/src/main.py
 sleep 1
-echo -e "${WHITE}Congratulations installation complete ..."
+echo -e "${WHITE}Congratulations installation completed ..."
 echo -e "${GREEN}Run this tool with stegbrutex command. Happy cracking"
