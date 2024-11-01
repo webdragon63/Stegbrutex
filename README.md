@@ -12,8 +12,12 @@ A simple tool based on python and shell. This tool allows you to bruteforce any 
 ```shell 
 sudo git clone https://github.com/webdragon63/Stegbrutex.git
 cd Stegbrutex
-bash stegbrutex.sh
+sudo bash install.sh
 ```
+
+# To run this tool
+Sipmly run `stegbrutex` command on your terminal
+
 # Created by
 INDIAN CYBER ARMY
 
