@@ -14,7 +14,7 @@ sudo apt install python3
 sudo apt install python3-pip
 sudo apt instal1 steghide
 ```
-# INSTALLATION
+# INSTALLATION OF THIS TOOL
 
 ```shell 
 git clone https://github.com/webdragon63/Stegbrutex.git
