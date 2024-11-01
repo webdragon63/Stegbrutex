@@ -13,4 +13,4 @@ echo -e "${BLUE}  ＰＡＳＳＰＲＯＴＥＣＴＥＤ  ＳＴＥＧＮＯＧ
 echo -e "${BLUE}                        ＦＲＯＭ  ＷＥＢＤＲＡＧＯＮ６３"
 echo -e "${CYAN}--------------------------------------------------------------------------------"
 echo -e "${BLUE}"
-python3 src/main.py
+python3 usr/local/bin/src/main.py
