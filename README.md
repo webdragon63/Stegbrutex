@@ -12,7 +12,7 @@ Python3, Python3-pip, Steghide
 ```shell
 sudo apt install python3
 sudo apt install python3-pip
-sudo apt instal1 steghide
+sudo apt install steghide
 ```
 # INSTALLATION OF THIS TOOL
 
