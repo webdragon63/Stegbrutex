@@ -1,5 +1,4 @@
 #!/bin/bash
-#!/bin/bash
 sleep 1
 VERMILION='\033[0;31m'
 if [[ $(id -u) -ne 0 ]] ; then 
